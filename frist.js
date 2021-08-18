@@ -1,0 +1,13 @@
+var names = ["Gauri", "paddy", "Angular"];
+console.log("first element", names[0]);
+console.log("all names", names);
+var str = "Angular is my feverate languagae";
+var no = 11;
+console.log("value is no is", no);
+console.log("value is no is", str);
+console.log(typeof str);
+console.log(typeof no);
+var value = true;
+console.log(typeof value);
+var val;
+console.log(typeof val);
